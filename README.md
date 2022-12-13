@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishikolthuri
+- 👋 Hi, I’m @rishirevanth
 - 👀 I’m interested in working with spring based applications and java backend work
 - 🌱 I’m currently learning java design patterns
 - 💞️ I’m looking to collaborate on java things and spring based applications
